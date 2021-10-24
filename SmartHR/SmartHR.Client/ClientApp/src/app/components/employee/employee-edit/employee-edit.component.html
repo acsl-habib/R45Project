@@ -1,0 +1,49 @@
+<div class="view-container">
+  <mat-card class="view-card mat-elevation-z8">
+    <mat-card-header>
+      <mat-card-title>Employee</mat-card-title>
+      <mat-card-subtitle>Create new employee</mat-card-subtitle>
+      <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/worker-employee-svgrepo-com.svg" />
+
+
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <form class="form-3col" [formGroup]="employeeForm">
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Employee name</mat-label>
+          <input matInput formControlName="employeeName">
+
+          <mat-error *ngIf="f.employeeName.touched && f.employeeName.errors?.required">
+            Name is <strong>required</strong>
+          </mat-error>
+          <mat-error *ngIf="f.employeeName.touched && f.employeeName.errors?.maxlength">
+            Name exceeds <strong>40 characters</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Date of birth</mat-label>
+          <input matInput formControlName="dateOfBirth" [matDatepicker]="picker1">
+          <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+          <mat-datepicker #picker1></mat-datepicker>
+          <mat-error *ngIf="f.dateOfBirth.touched && f.dateOfBirth.errors?.required">
+            Date of birth is <strong>required</strong>
+          </mat-error>
+
+        </mat-form-field>
+        <div class="f-w" style="display:flex; align-items:center;">
+          <mat-label style="margin-right:16px;">Gender</mat-label>
+          <mat-radio-group formControlName="gender">
+            <mat-radio-button style="margin-right:16px;" [value]="g.value" *ngFor="let g of genderOptions">{{g.label}}</mat-radio-button>
+
+          </mat-radio-group>
+          <mat-error *ngIf="!employeeForm.pristine && f.gender.errors?.required">
+            Gender birth is <strong>required</strong>
+          </mat-error>
+        </div>
+        <div class="f-w">3</div>
+        <div class="f-w">4</div>
+      </form>
+    </mat-card-content>
+  </mat-card>
+</div>
+
