@@ -19,15 +19,10 @@ namespace SmartHR.DataApi.HostedServices
 
         public async Task StartAsync(CancellationToken cancellationToken)
         {
-            using (var scope = serviceProvider.CreateScope())
-            {
+            using var scope = serviceProvider.CreateScope();
                 var seeder = scope.ServiceProvider.GetRequiredService<IdentityDbInitializer>();
-
                 await seeder.SeedAsync();
-            }
-
-                
-            
+              
         }
 
         public Task StopAsync(CancellationToken cancellationToken) => Task.CompletedTask;

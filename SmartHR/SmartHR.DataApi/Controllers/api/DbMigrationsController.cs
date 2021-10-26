@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.DependencyInjection;
 using SmartHR.DataApi.Models;
+using SmartHR.DataApi.Models.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;

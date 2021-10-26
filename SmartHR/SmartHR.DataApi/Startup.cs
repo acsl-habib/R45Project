@@ -12,6 +12,7 @@ using Microsoft.IdentityModel.Tokens;
 using SmartHR.DataApi.HostedServices;
 using SmartHR.DataApi.Migrations.Identity;
 using SmartHR.DataApi.Models;
+using SmartHR.DataApi.Models.Data;
 using SmartHR.DataApi.Models.Identity;
 using System;
 using System.Collections.Generic;

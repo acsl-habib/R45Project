@@ -10,12 +10,12 @@ namespace SmartHR.DataApi.Migrations.Identity
 {
     public class IdentityDbInitializer
     {
-        private readonly ApplicationDbContext db;
+        //private readonly ApplicationDbContext db;
         private readonly UserManager<IdentityUser> userManager;
         private readonly RoleManager<IdentityRole> roleManager;
-        public IdentityDbInitializer(ApplicationDbContext db, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager) 
+        public IdentityDbInitializer(/*ApplicationDbContext db,*/ UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager) 
         { 
-            this.db = db;
+            //this.db = db;
             this.userManager = userManager;
             this.roleManager = roleManager;
         }
@@ -31,9 +31,13 @@ namespace SmartHR.DataApi.Migrations.Identity
             user.PasswordHash = hasher.HashPassword(user, "@Open1234");
             await CreateUserAsync(user);
             await userManager.AddToRoleAsync(user,"Admin");
+            
+            user = new IdentityUser { UserName = "esadr45", NormalizedUserName = "ESADR45" };
+            user.PasswordHash = hasher.HashPassword(user, "@Open1234");
+            await CreateUserAsync(user);
+            await userManager.AddToRoleAsync(user, "Staff");
 
-           
-            await db.SaveChangesAsync();
+            //await db.SaveChangesAsync();
         }
         private async Task CreateRoleAsync(IdentityRole role)
         {

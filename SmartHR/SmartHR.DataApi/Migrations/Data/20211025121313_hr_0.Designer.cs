@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SmartHR.DataApi.Models;
+using SmartHR.DataApi.Models.Data;
 
 namespace SmartHR.DataApi.Migrations.Data
 {

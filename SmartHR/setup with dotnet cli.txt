@@ -20,3 +20,21 @@ HRDbContext
 1. dotnet ef migrations add "hr_0" -c HRDbContext  -o "Migrations/Data"
 [Upto SalaryStructure]
 2. dotnet ef database update -c HRDbContext -o "Migrations/Data"
+=====================================================================
+if you download from GitHub
+===============================
+
+For CRUD operation 
+Server
+1. Create API controller
+2. Test the Api using Postman
+Client
+1. Write the madding class
+2. Create a service for accessing data from Api
+3. Add the service provider in appmodule
+4. Write methods in Service
+5. Generate componets to view, create and edit
+6. Add routes for components
+7. Write html & code for components
+
+in ClientApp, run => npm i
