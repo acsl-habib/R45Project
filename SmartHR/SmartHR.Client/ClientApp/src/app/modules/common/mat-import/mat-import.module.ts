@@ -21,6 +21,8 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatDialogModule } from '@angular/material/dialog';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatStepperModule } from '@angular/material/stepper';
+import { MatTabsModule } from '@angular/material/tabs';
+import { MatAutocompleteModule } from '@angular/material/autocomplete';
 
 const modules = [
   MatToolbarModule,
@@ -43,7 +45,9 @@ const modules = [
   MatPaginatorModule,
   MatDialogModule,
   MatRadioModule,
-  MatStepperModule
+  MatStepperModule,
+  MatTabsModule,
+  MatAutocompleteModule
 ];
 
 @NgModule({

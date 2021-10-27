@@ -7,12 +7,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SmartHR.DataApi.Models.Data;
+using SmartHR.DataApi.ViewModels.Input;
 
 namespace SmartHR.DataApi.Controllers.api
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles ="Admin")]
+    //[Authorize(Roles ="Admin")]
     public class GradesController : ControllerBase
     {
         private readonly HRDbContext _context;
@@ -97,7 +98,38 @@ namespace SmartHR.DataApi.Controllers.api
 
             return CreatedAtAction("GetGrade", new { id = grade.GradeId }, grade);
         }
-
+        /*
+         * Custom
+         * 
+         * */
+        [HttpPost("{id}/Array")]
+        public async Task<ActionResult> PostSalaryStructure(
+            int id //grade id
+            , SalaryStructureInputModel[] salaryStructures
+            )
+        {
+            var grade = await _context.Grades.FirstOrDefaultAsync(x => x.GradeId == id);
+            if(grade == null)
+            {
+                return NotFound();
+            }
+            foreach(var s in salaryStructures)
+            {
+                var head = await _context.SalaryHeads.FirstOrDefaultAsync(x => x.SalaryHeadName.ToLower() == s.Label.ToLower());
+                if(head == null)
+                {
+                    var h = await this.AddNewHead(s);
+                    grade.SalaryStructures.Add(new SalaryStructure { SalaryHeadId = h.SalaryHeadId, ValueCalculationType = s.ValueCalculationType, HeadValue = (double)s.HeadValue });
+                }
+                else
+                {
+                    grade.SalaryStructures.Add(new SalaryStructure { SalaryHeadId = head.SalaryHeadId, ValueCalculationType = s.ValueCalculationType, HeadValue = (double)s.HeadValue });
+                }
+            }
+            await _context.SaveChangesAsync();
+            return Ok();
+            
+        }
         // DELETE: api/Grades/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<Grade>> DeleteGrade(int id)
@@ -113,7 +145,13 @@ namespace SmartHR.DataApi.Controllers.api
 
             return grade;
         }
-
+        private async Task<SalaryHead> AddNewHead(SalaryStructureInputModel data)
+        {
+            var head = new SalaryHead { SalaryHeadName = data.Label, Description = data.Label, IsCommon = false };
+            _context.SalaryHeads.Add(head);
+            await _context.SaveChangesAsync();
+            return head;
+        }
         private bool GradeExists(int id)
         {
             return _context.Grades.Any(e => e.GradeId == id);

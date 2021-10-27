@@ -21,6 +21,9 @@ export class SalaryHeadService {
   getEmployee(id: number): Observable<SalaryHeadModel[]> {
     return this.http.get<SalaryHeadModel[]>(`${AppConstants.apiUrl}/api/SalaryHeads/${id}/Employees`)
   }
+  getLabels(): Observable<string[]> {
+    return this.http.get<string[]>(`${AppConstants.apiUrl}/api/SalaryHeads/Labels`);
+  }
   create(data: SalaryHeadModel): Observable<SalaryHeadModel> {
     return this.http.post<SalaryHeadModel>(`${AppConstants.apiUrl}/api/SalaryHeads`, data);
   }

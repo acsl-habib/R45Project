@@ -26,7 +26,7 @@ import { WorkHourService } from './services/data/work-hour.service';
 
 /* Time picker depency */
 import { MatTimepickerModule } from 'mat-timepicker';
-import { DatePipe } from '@angular/common';
+import { DatePipe, DecimalPipe } from '@angular/common';
 import { DepartmentService } from './services/data/department.service';
 import { DepartmentViewComponent } from './components/departmet/department-view/department-view.component';
 import { DepartmentCreateComponent } from './components/departmet/department-create/department-create.component';
@@ -84,6 +84,7 @@ import { GradeService } from './services/data/grade.service';
   entryComponents: [ConfirmDialogComponent],
   providers: [
     DatePipe,
+    DecimalPipe,
     MultilevelMenuService,
     NotifyService,
     AuthenticationService,

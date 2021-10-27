@@ -15,7 +15,7 @@
         </ng-container>
         <ng-container matColumnDef="basic">
           <mat-header-cell *matHeaderCellDef mat-sort-header>Basic</mat-header-cell>
-          <mat-cell *matCellDef="let element">{{element.basic}}</mat-cell>
+          <mat-cell *matCellDef="let element">{{element.basic |number: '1.2-2'}}</mat-cell>
         </ng-container>
         <ng-container matColumnDef="salaryStructure">
           <mat-header-cell *matHeaderCellDef>Salary structure</mat-header-cell>

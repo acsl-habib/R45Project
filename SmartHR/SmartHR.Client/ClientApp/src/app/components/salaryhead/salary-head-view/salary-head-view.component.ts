@@ -22,6 +22,7 @@ export class SalaryHeadViewComponent implements OnInit {
   @ViewChild(MatPaginator, { static: false }) paginator!: MatPaginator;
   columnList: string[] = ["salaryHeadName", "description", "isCommon", "actions"];
   constructor(
+    
     private salaryHeadService: SalaryHeadService,
     private notifyService: NotifyService
   ) { }

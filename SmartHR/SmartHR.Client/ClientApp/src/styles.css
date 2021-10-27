@@ -52,6 +52,13 @@ p {
   align-content:center;
   
 }
+.form-3col-1 {
+  display: grid;
+  grid-template-columns: auto auto auto 50px;
+  gap: 12px;
+  align-content: center;
+  align-items:center;
+}
 .my-1{
     margin-top:25px;
     margin-bottom:25px;

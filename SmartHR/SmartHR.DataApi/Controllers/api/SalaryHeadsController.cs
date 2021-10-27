@@ -42,7 +42,18 @@ namespace SmartHR.DataApi.Controllers.api
 
             return salaryHead;
         }
-
+        /*
+         * Custom
+         * 
+         * */
+        [HttpGet("Labels")]
+        public async Task<ActionResult<IEnumerable<string>>> GetSalaryHeadLabels()
+        {
+            return await _context
+                .SalaryHeads
+                .Select(x => x.SalaryHeadName)
+                .ToListAsync();
+        }
         // PUT: api/SalaryHeads/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.

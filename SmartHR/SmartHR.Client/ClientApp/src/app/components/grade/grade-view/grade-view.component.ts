@@ -1,3 +1,4 @@
+import { DecimalPipe } from '@angular/common';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
@@ -27,6 +28,7 @@ export class GradeViewComponent implements OnInit {
   @ViewChild(MatPaginator, { static: false }) paginator!: MatPaginator;
   columnList: string[] = ["gradeName", "basic", "salaryStructure", "employees",  "actions"];
   constructor(
+    private decimalPipe: DecimalPipe,
     private gradeService: GradeService,
     public salaryHeadSerice: SalaryHeadService,
     private notifyService: NotifyService
@@ -36,15 +38,14 @@ export class GradeViewComponent implements OnInit {
    *
    * */
   getSalaryStructures(g: GradeModel) {
-    
-    let data: { label: string, value: number }[] = [];
+    let data: { label: string, value: string }[] = [];
     g.salaryStructures.forEach(x => {
       let st = this.salaryHeads.find(v => v.salaryHeadId == x.salaryHeadId);
       if (x.valueCalculationType == CalculationType.Flat) {
-        data.push({ label: <string>st?.salaryHeadName, value: <number>x.headValue })
+        data.push({ label: <string>st?.salaryHeadName, value: <string>this.decimalPipe.transform( < number > x.headValue, "1.2-2") })
       }
       else {
-        data.push({ label: <string>st?.salaryHeadName, value: <number>g.basic*(<number>x.headValue / 100.00) })
+        data.push({ label: <string>st?.salaryHeadName, value: <string>this.decimalPipe.transform(<number>g.basic*(<number>x.headValue / 100.00), "1.2-2") })
       }
     });
     let temp = data.map(x => `${x.label}: ${x.value}`)
