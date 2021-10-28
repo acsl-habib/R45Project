@@ -18,7 +18,7 @@ namespace SmartHR.DataApi.Models.Constants
     public enum MaritalStatus { Married=1, Unmarried }
 
     [JsonConverter(typeof(EmployeeStatus))]
-    public enum EmployeeStatus { Active=1, OnLeave, Suspended, Inactive }
+    public enum EmployeeStatus { Active=1, OnLeave, Suspended, Inactive, Terminated, Left, Released }
     public enum LeaveStatus
     {
         Pending = 1, Approved, Denied

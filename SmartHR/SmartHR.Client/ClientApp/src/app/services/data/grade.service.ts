@@ -2,7 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { GradeModel } from '../../models/data/grade-model';
-import { SalaryStructureInputModel } from '../../models/inputmodel/salary-structure-input-model';
+import { SalaryStructureInputModel } from '../../models/data/inputmodel/salary-structure-input-model';
 import { AppConstants } from '../../settings/app-constants';
 
 @Injectable({

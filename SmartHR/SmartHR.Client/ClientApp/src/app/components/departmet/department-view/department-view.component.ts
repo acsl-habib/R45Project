@@ -25,12 +25,20 @@ export class DepartmentViewComponent implements OnInit {
   dataSource: MatTableDataSource<DepartmentModel> = new MatTableDataSource(this.departments);
   @ViewChild(MatSort, { static: false }) sort!: MatSort;
   @ViewChild(MatPaginator, { static: false }) paginator!: MatPaginator;
-  columnList = ["departmentName", "actions"];
+  columnList = ["departmentName","sections", "actions"];
   constructor(
     private departmentService: DepartmentService,
     private notifyService: NotifyService,
     private matDiagRef: MatDialog
   ) { }
+  /*
+   * Methods
+   * ===============
+   * */
+  getSectionString(data: DepartmentModel) {
+    let names = data.sections?.map(x => x.sectionName == 'NA' ? '-' : x.sectionName)
+    return names?.join(', ');
+  }
   /*
    * Handlers
    *
@@ -53,9 +61,10 @@ export class DepartmentViewComponent implements OnInit {
       })
   }
   ngOnInit(): void {
-    this.departmentService.get()
+    this.departmentService.getWithSection()
       .subscribe(r => {
         this.departments = r;
+        console.log(this.departments)
         this.dataSource.data = this.departments;
         this.dataSource.sort = this.sort;
         this.dataSource.paginator = this.paginator;

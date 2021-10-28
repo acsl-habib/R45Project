@@ -13,7 +13,10 @@
           <mat-header-cell *matHeaderCellDef mat-sort-header>Department name</mat-header-cell>
           <mat-cell *matCellDef="let element">{{element.departmentName}}</mat-cell>
         </ng-container>
-        
+        <ng-container matColumnDef="sections">
+          <mat-header-cell *matHeaderCellDef>Sections</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getSectionString(element)}}</mat-cell>
+        </ng-container>
         <<ng-container matColumnDef="actions">
           <mat-header-cell *matHeaderCellDef> </mat-header-cell>
           <mat-cell *matCellDef="let element">

@@ -3,7 +3,7 @@ import { FormArray, FormControl, FormGroup, Validators } from '@angular/forms';
 import { throwError } from 'rxjs';
 import { CalculationType } from '../../../models/data/constants/enum-data';
 import { GradeModel } from '../../../models/data/grade-model';
-import { SalaryStructureInputModel } from '../../../models/inputmodel/salary-structure-input-model';
+import { SalaryStructureInputModel } from '../../../models/data/inputmodel/salary-structure-input-model';
 import { NotifyService } from '../../../services/common/notify.service';
 import { GradeService } from '../../../services/data/grade.service';
 import { SalaryHeadService } from '../../../services/data/salary-head.service';

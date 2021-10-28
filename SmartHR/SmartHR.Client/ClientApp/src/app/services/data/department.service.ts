@@ -3,6 +3,7 @@ import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { DepartmentModel } from '../../models/data/department-model';
 import { EmployeeModel } from '../../models/data/employee-model';
+import { DepartmentInputModel } from '../../models/data/inputmodel/department-input-model';
 import { AppConstants } from '../../settings/app-constants';
 
 @Injectable({
@@ -19,11 +20,17 @@ export class DepartmentService {
   getById(id: number): Observable<DepartmentModel> {
     return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}`);
   }
+  getWithSection(): Observable<DepartmentModel[]> {
+    return this.http.get<DepartmentModel[]>(`${AppConstants.apiUrl}/api/Departments/WithSections`);
+  }
   getEmployee(id: number): Observable<EmployeeModel[]> {
     return this.http.get < EmployeeModel[] > (`${AppConstants.apiUrl}/api/Departments/${id}/Employees`)
   }
   create(data: DepartmentModel): Observable<DepartmentModel> {
     return this.http.post<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments`, data);
+  }
+  createWithSection(data: DepartmentInputModel): Observable<DepartmentModel> {
+    return this.http.post<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/WithSection`, data);
   }
   update(data: DepartmentModel): Observable<any> {
     return this.http.put<any>(`${AppConstants.apiUrl}/api/Departments/${data.departmentId}`, data);

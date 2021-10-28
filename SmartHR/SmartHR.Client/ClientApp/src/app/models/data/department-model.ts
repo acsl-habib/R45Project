@@ -1,6 +1,8 @@
-export class DepartmentModel {
-  constructor(
-    public departmentId?: number,
-    public departmentName?: string
-  ) { }
+import { SectionModel } from "./section-model";
+
+export interface DepartmentModel {
+
+  departmentId?: number;
+  departmentName?: string;
+  sections?: SectionModel[]
 }
