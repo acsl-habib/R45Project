@@ -302,5 +302,6 @@ D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.Dat
 D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
 D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
 D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
 D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache

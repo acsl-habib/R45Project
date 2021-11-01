@@ -61,7 +61,7 @@ export class DepartmentViewComponent implements OnInit {
       })
   }
   ngOnInit(): void {
-    this.departmentService.getWithSection()
+    this.departmentService.getWithSections()
       .subscribe(r => {
         this.departments = r;
         console.log(this.departments)

@@ -1,8 +1,10 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
+import { EmployeeModel } from '../../models/data/employee-model';
 import { GradeModel } from '../../models/data/grade-model';
 import { SalaryStructureInputModel } from '../../models/data/inputmodel/salary-structure-input-model';
+import { EmployeeViewModel } from '../../models/data/viewmodel/employee-view-model';
 import { AppConstants } from '../../settings/app-constants';
 
 @Injectable({
@@ -22,7 +24,9 @@ export class GradeService {
   getById(id: number): Observable<GradeModel> {
     return this.http.get<GradeModel>(`${AppConstants.apiUrl}/api/Grades/${id}`);
   }
-  
+  getEmployees(id: number /* grade id*/): Observable<EmployeeViewModel[]> {
+    return this.http.get<EmployeeViewModel[]>(`${AppConstants.apiUrl}/api/Grades/${id}/Employees`);
+  }
   create(data: GradeModel): Observable<GradeModel> {
     return this.http.post<GradeModel>(`${AppConstants.apiUrl}/api/Grades`, data);
   }
@@ -35,4 +39,5 @@ export class GradeService {
   saveSalaryStructure(id: number, data: SalaryStructureInputModel[]): Observable<any> {
     return this.http.post<any>(`${AppConstants.apiUrl}/api/Grades/${id}/Array`, data);
   }
+  
 }

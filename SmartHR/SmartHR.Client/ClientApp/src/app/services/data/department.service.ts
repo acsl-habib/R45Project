@@ -20,7 +20,10 @@ export class DepartmentService {
   getById(id: number): Observable<DepartmentModel> {
     return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}`);
   }
-  getWithSection(): Observable<DepartmentModel[]> {
+  getByIdWithSections(id: number): Observable<DepartmentModel> {
+    return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}/WithSections`);
+  }
+  getWithSections(): Observable<DepartmentModel[]> {
     return this.http.get<DepartmentModel[]>(`${AppConstants.apiUrl}/api/Departments/WithSections`);
   }
   getEmployee(id: number): Observable<EmployeeModel[]> {
@@ -34,6 +37,9 @@ export class DepartmentService {
   }
   update(data: DepartmentModel): Observable<any> {
     return this.http.put<any>(`${AppConstants.apiUrl}/api/Departments/${data.departmentId}`, data);
+  }
+  updateWithSections(data: DepartmentInputModel): Observable<any> {
+    return this.http.put<any>(`${AppConstants.apiUrl}/api/Departments/${data.departmentId}/WithSections`, data);
   }
   delete(id: number): Observable<DepartmentModel> {
     return this.http.delete<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}`);

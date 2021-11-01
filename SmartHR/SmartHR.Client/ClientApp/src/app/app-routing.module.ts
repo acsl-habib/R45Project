@@ -10,6 +10,7 @@ import { EmployeeEditComponent } from './components/employee/employee-edit/emplo
 import { EmployeeViewComponent } from './components/employee/employee-view/employee-view.component';
 import { GradeCreateComponent } from './components/grade/grade-create/grade-create.component';
 import { GradeEditComponent } from './components/grade/grade-edit/grade-edit.component';
+import { GradeEmployeeComponent } from './components/grade/grade-employee/grade-employee.component';
 import { GradeViewComponent } from './components/grade/grade-view/grade-view.component';
 
 import { HomeComponent } from './components/home/home.component';
@@ -34,7 +35,8 @@ const routes: Routes = [
   { path: "salary-head-edit/:id", component: SalaryHeadEditComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] } },
   { path: "grades", component: GradeViewComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] } },
   { path: "grade-create", component: GradeCreateComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] } },
-  { path: "grade-edit/:id", component: GradeEditComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] } }
+  { path: "grade-edit/:id", component: GradeEditComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] } },
+  { path: "grade-employees/:id", component: GradeEmployeeComponent, canActivate: [AuthGuard], data: { AllowedRoles: ["Admin"] }  }
 
 ];
 

@@ -54,7 +54,24 @@ namespace SmartHR.DataApi.Controllers.api
 
             return grade;
         }
+        /*
+         * Custom to get employees holding a grade
+         * 
+         * */
+        [HttpGet("{id}/Employees")]
+        public async Task<ActionResult<IEnumerable<Employee>>> GetEmployeeOfGrade(int id)
+        {
 
+
+            return await _context
+                .Employees
+                .Include(x => x.Designation)
+                .Include(x => x.Grade)
+                .Include(x => x.Section)
+                .ThenInclude(x => x.Department)
+                .Where(x => x.CurrentGradeId == id)
+                .ToListAsync();
+        }
         // PUT: api/Grades/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.

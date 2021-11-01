@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { APP_INITIALIZER, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -44,6 +44,11 @@ import { SalaryHeadCreateComponent } from './components/salaryhead/salary-head-c
 import { SalaryHeadEditComponent } from './components/salaryhead/salary-head-edit/salary-head-edit.component';
 import { SalaryHeadService } from './services/data/salary-head.service';
 import { GradeService } from './services/data/grade.service';
+import { ErrorHandler } from '@angular/core';
+import { GlobalErrorHandler } from './handlers/common/global-error-handler';
+import { appInitializer } from './Initializers/app-initializer';
+import { HttpErrorInterceptor } from './interceptors/common/http-error-interceptor';
+import { GradeEmployeeComponent } from './components/grade/grade-employee/grade-employee.component';
 
 
 @NgModule({
@@ -65,7 +70,8 @@ import { GradeService } from './services/data/grade.service';
     GradeEditComponent,
     SalaryHeadViewComponent,
     SalaryHeadCreateComponent,
-    SalaryHeadEditComponent
+    SalaryHeadEditComponent,
+    GradeEmployeeComponent
     
   ],
   imports: [
@@ -96,8 +102,14 @@ import { GradeService } from './services/data/grade.service';
     DepartmentService,
     EmployeeService,
     SalaryHeadService,
-    GradeService,
-    { provide: HTTP_INTERCEPTORS, useClass: JwtTokenInterceptor, multi: true }
+    GradeService,  
+    { provide: HTTP_INTERCEPTORS, useClass: JwtTokenInterceptor, multi: true },
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: HttpErrorInterceptor,
+      multi: true
+    },
+    { provide: ErrorHandler, useClass: GlobalErrorHandler }
     
   ],
   bootstrap: [AppComponent]

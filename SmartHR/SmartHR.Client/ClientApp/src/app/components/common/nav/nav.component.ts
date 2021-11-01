@@ -4,6 +4,7 @@ import { Observable } from 'rxjs';
 import { map, shareReplay } from 'rxjs/operators';
 import { AppConstants } from '../../../settings/app-constants';
 import { UserService } from '../../../services/authentication/user.service';
+import { AuthenticationService } from '../../../services/authentication/authentication.service';
 
 @Component({
   selector: 'app-nav',
@@ -39,7 +40,8 @@ export class NavComponent {
   }
   logout() {
     this.userService.logout();
+    console.log(new Date(this.userService.expires));
   }
-  constructor(private breakpointObserver: BreakpointObserver, private userService: UserService) { this.appName = AppConstants.appName; }
-
+  constructor(private breakpointObserver: BreakpointObserver, private userService: UserService, private authenticationService:AuthenticationService) { this.appName = AppConstants.appName; }
+ 
 }

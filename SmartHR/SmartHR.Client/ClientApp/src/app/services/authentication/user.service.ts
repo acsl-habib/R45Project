@@ -33,6 +33,12 @@ export class UserService {
   get token() {
     return this.user?.accessToken ?? '';
   }
+  get refreshTokenId() {
+    return this.user?.refreshToken ?? '';
+  }
+  get expires() {
+    return this.user?.expires ?? '';
+  }
   get role() {
     return this.user?.role;
   }

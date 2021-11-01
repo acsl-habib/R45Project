@@ -1,7 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { EventEmitter, Injectable, Output } from '@angular/core';
 import { BehaviorSubject, empty, Observable, throwError } from 'rxjs';
-import { catchError } from 'rxjs/operators';
+import { catchError, tap } from 'rxjs/operators';
 import { map } from 'rxjs/operators';
 import { LoginModel } from 'src/app/models/authentication/login-model';
 import { User } from 'src/app/models/authentication/user';
@@ -14,6 +14,7 @@ import { AppConstants } from 'src/app/settings/app-constants';
 export class AuthenticationService {
   private currentUserSubject: BehaviorSubject<User>;
   private currentUser: Observable<User>;
+ 
   @Output() loginEvent: EventEmitter<string> = new EventEmitter<string>();
   constructor(
     private http: HttpClient
@@ -30,7 +31,9 @@ export class AuthenticationService {
       .pipe(map(data => {
         let user = this.save(data);
         this.currentUserSubject.next(user);
+
         this.loginEvent.emit('login');
+        
       }),
         catchError((err, caught) => {
 
@@ -38,10 +41,31 @@ export class AuthenticationService {
           return throwError(err);
         }));
   }
+  refreshToken(id: string) {
+    //RefreshToken/{id}
+    console.log(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`)
+    let noTokenHeader = { headers: new HttpHeaders({ 'notoken': 'no token' }) }
+    //return this.http.post(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`, null)
+    //  .pipe(map(data => {
+    //    console.log(data);
+    //    let user = this.save(data);
+    //    this.currentUserSubject.next(user);
+    //    this.loginEvent.emit('login');
+       
+    //  }));
+    return this.http.post<any>(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`, null, noTokenHeader)
+      .pipe(tap((x: any) => {
+        console.log(x);
+        let user = this.save(x);
+        this.currentUserSubject.next(user);
+        this.loginEvent.emit('login');
+    }));
+  }
   logout() {
     sessionStorage.removeItem("user-data");
     this.currentUserSubject.next(new User());
     this.loginEvent.emit('logout');
+   
   }
   save(data: any): User {
     const userdata = new User();
@@ -49,10 +73,14 @@ export class AuthenticationService {
     const payload = JSON.parse(window.atob(data.token.split('.')[1]));
     userdata.userName = payload.username;
     userdata.role = payload.role.split(",");
+    userdata.refreshToken = data.refreshToken;
+    userdata.expires = data.expiration;
     sessionStorage.setItem("user-data", JSON.stringify(userdata));
     return userdata;
   }
   getEmitter() {
     return this.loginEvent;
   }
+  
+  
 }
