@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { Observable } from 'rxjs';
 import { map, shareReplay } from 'rxjs/operators';
@@ -11,7 +11,8 @@ import { AuthenticationService } from '../../../services/authentication/authenti
   templateUrl: './nav.component.html',
   styleUrls: ['./nav.component.css']
 })
-export class NavComponent {
+export class NavComponent implements OnInit {
+  timerId: any;
   appName: string = '';
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
@@ -40,8 +41,44 @@ export class NavComponent {
   }
   logout() {
     this.userService.logout();
+    this.clearTimer();
     console.log(new Date(this.userService.expires));
   }
-  constructor(private breakpointObserver: BreakpointObserver, private userService: UserService, private authenticationService:AuthenticationService) { this.appName = AppConstants.appName; }
- 
+  constructor(private breakpointObserver: BreakpointObserver, private userService: UserService,
+    private authenticationService: AuthenticationService) {
+    this.appName = AppConstants.appName;
+    this.authenticationService.loginEvent
+      .subscribe(x => {
+        if (x == "login") {
+          this.setTimer()
+        }
+        if (x == "refresh") {
+          this.clearTimer();
+          this.setTimer();
+        }
+      });
+    
+  }
+  setTimer() {
+    
+    if (this.userService.isLogged) {
+      let x = Math.abs(new Date().valueOf() - new Date(this.userService.user?.expires as Date)?.valueOf());
+      console.log(new Date());
+      console.log(new Date(this.userService.user?.expires as Date));
+      console.log(x-60000 );
+      this.timerId = setTimeout(() => {
+        console.log('timer');
+        this.authenticationService.refreshToken(this.userService.refreshTokenId);
+      }, x-60000);
+    }
+    
+  }
+  clearTimer() {
+    clearTimeout(this.timerId);
+  }
+  ngOnInit() {
+    if (this.userService.isLogged) {
+      this.setTimer();
+    }
+  }
 }

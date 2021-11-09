@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SmartHR.DataApi.Models.Data;
+using SmartHR.DataApi.ViewModels.Edit;
 using SmartHR.DataApi.ViewModels.Input;
 
 namespace SmartHR.DataApi.Controllers.api
@@ -55,6 +56,37 @@ namespace SmartHR.DataApi.Controllers.api
             return grade;
         }
         /*
+         * Custom to return grade editable format
+         * 
+         * */
+        [HttpGet("{id}/Edit")]
+        public async Task<ActionResult<GradeEditModel>> GetGradeEditModel(int id)
+        {
+            var grade = await _context.Grades
+                .Include(x=> x.SalaryStructures)
+                .ThenInclude( y => y.SalaryHead)
+                .FirstOrDefaultAsync(x=> x.GradeId == id);
+
+            if (grade == null)
+            {
+                return NotFound();
+            }
+            var ss = grade.SalaryStructures.Select(s =>
+                new SalaryStructureEditModel
+                {
+                    SalaryStructureId = s.SalaryStructureId,
+                    Label = s.SalaryHead.SalaryHeadName,
+                    HeadValue = (decimal)s.HeadValue,
+                    ValueCalculationType = s.ValueCalculationType
+                }).ToArray();
+            return new GradeEditModel { 
+                GradeId=grade.GradeId, 
+                GradeName=grade.GradeName,
+                Basic = grade.Basic,
+                SalaryStructures = ss
+            };
+        }
+        /*
          * Custom to get employees holding a grade
          * 
          * */
@@ -68,7 +100,7 @@ namespace SmartHR.DataApi.Controllers.api
                 .Include(x => x.Designation)
                 .Include(x => x.Grade)
                 .Include(x => x.Section)
-                .ThenInclude(x => x.Department)
+                .ThenInclude(y => y.Department)
                 .Where(x => x.CurrentGradeId == id)
                 .ToListAsync();
         }
@@ -116,7 +148,7 @@ namespace SmartHR.DataApi.Controllers.api
             return CreatedAtAction("GetGrade", new { id = grade.GradeId }, grade);
         }
         /*
-         * Custom
+         * Custom to add multiple salary structure 
          * 
          * */
         [HttpPost("{id}/Array")]
@@ -147,6 +179,7 @@ namespace SmartHR.DataApi.Controllers.api
             return Ok();
             
         }
+       
         // DELETE: api/Grades/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<Grade>> DeleteGrade(int id)

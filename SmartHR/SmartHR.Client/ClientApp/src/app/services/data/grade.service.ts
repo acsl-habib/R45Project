@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
+import { GradeEditModel } from '../../models/data/edit/grade-edit-model';
 import { EmployeeModel } from '../../models/data/employee-model';
 import { GradeModel } from '../../models/data/grade-model';
 import { SalaryStructureInputModel } from '../../models/data/inputmodel/salary-structure-input-model';
@@ -23,6 +24,9 @@ export class GradeService {
   }
   getById(id: number): Observable<GradeModel> {
     return this.http.get<GradeModel>(`${AppConstants.apiUrl}/api/Grades/${id}`);
+  }
+  getByIdForEdit(id: number): Observable<GradeEditModel> {
+    return this.http.get<GradeEditModel>(`${AppConstants.apiUrl}/api/Grades/${id}/Edit`);
   }
   getEmployees(id: number /* grade id*/): Observable<EmployeeViewModel[]> {
     return this.http.get<EmployeeViewModel[]>(`${AppConstants.apiUrl}/api/Grades/${id}/Employees`);

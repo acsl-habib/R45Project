@@ -3,9 +3,12 @@ import { EventEmitter, Injectable, Output } from '@angular/core';
 import { BehaviorSubject, empty, Observable, throwError } from 'rxjs';
 import { catchError, tap } from 'rxjs/operators';
 import { map } from 'rxjs/operators';
-import { LoginModel } from 'src/app/models/authentication/login-model';
-import { User } from 'src/app/models/authentication/user';
-import { AppConstants } from 'src/app/settings/app-constants';
+
+
+
+import { LoginModel } from '../../models/authentication/login-model';
+import { User } from '../../models/authentication/user';
+import { AppConstants } from '../../settings/app-constants';
 
 
 @Injectable({
@@ -45,21 +48,15 @@ export class AuthenticationService {
     //RefreshToken/{id}
     console.log(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`)
     let noTokenHeader = { headers: new HttpHeaders({ 'notoken': 'no token' }) }
-    //return this.http.post(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`, null)
-    //  .pipe(map(data => {
-    //    console.log(data);
-    //    let user = this.save(data);
-    //    this.currentUserSubject.next(user);
-    //    this.loginEvent.emit('login');
-       
-    //  }));
-    return this.http.post<any>(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`, null, noTokenHeader)
-      .pipe(tap((x: any) => {
+    return this.http.post(`${AppConstants.apiUrl}/api/Account/RefreshToken/${id}`, null)
+      .subscribe(x => {
         console.log(x);
         let user = this.save(x);
         this.currentUserSubject.next(user);
-        this.loginEvent.emit('login');
-    }));
+        this.loginEvent.emit('refresh');
+       
+      });
+    
   }
   logout() {
     sessionStorage.removeItem("user-data");
@@ -68,6 +65,7 @@ export class AuthenticationService {
    
   }
   save(data: any): User {
+    console.log(data);
     const userdata = new User();
     userdata.accessToken = data.token;
     const payload = JSON.parse(window.atob(data.token.split('.')[1]));
@@ -76,6 +74,7 @@ export class AuthenticationService {
     userdata.refreshToken = data.refreshToken;
     userdata.expires = data.expiration;
     sessionStorage.setItem("user-data", JSON.stringify(userdata));
+    
     return userdata;
   }
   getEmitter() {
