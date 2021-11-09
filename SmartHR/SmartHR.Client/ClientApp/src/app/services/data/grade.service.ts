@@ -25,11 +25,14 @@ export class GradeService {
   getById(id: number): Observable<GradeModel> {
     return this.http.get<GradeModel>(`${AppConstants.apiUrl}/api/Grades/${id}`);
   }
+  getByEmployeeId(id: number): Observable<GradeModel> {
+    return this.http.get<GradeModel>(`${AppConstants.apiUrl}/api/Grades/Employee/${id}`);
+  }
   getByIdForEdit(id: number): Observable<GradeEditModel> {
     return this.http.get<GradeEditModel>(`${AppConstants.apiUrl}/api/Grades/${id}/Edit`);
   }
-  getEmployees(id: number /* grade id*/): Observable<EmployeeViewModel[]> {
-    return this.http.get<EmployeeViewModel[]>(`${AppConstants.apiUrl}/api/Grades/${id}/Employees`);
+  getEmployees(id: number /* grade id*/): Observable<EmployeeModel[]> {
+    return this.http.get<EmployeeModel[]>(`${AppConstants.apiUrl}/api/Grades/${id}/Employees`);
   }
   create(data: GradeModel): Observable<GradeModel> {
     return this.http.post<GradeModel>(`${AppConstants.apiUrl}/api/Grades`, data);

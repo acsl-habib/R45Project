@@ -10,12 +10,12 @@
     <mat-card-content class="view-card-content">
       <mat-table [dataSource]="dataSource" matSort>
         <ng-container matColumnDef="employeeName">
-          <mat-header-cell *matHeaderCellDef mat-sort-header>Grade</mat-header-cell>
-          <mat-cell *matCellDef="let element">{{element.employeeName}}</mat-cell>
+          <mat-header-cell *matHeaderCellDef mat-sort-header>Employee name</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element?.employeeName}}</mat-cell>
         </ng-container>
         <ng-container matColumnDef="department">
-          <mat-header-cell *matHeaderCellDef mat-sort-header>Dept</mat-header-cell>
-          <mat-cell *matCellDef="let element">{{element.section?.department?.departmentName}}/[{{element.section?.sectionName}} section]</mat-cell>
+          <mat-header-cell *matHeaderCellDef mat-sort-header>Dept / Section</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getDepartment(element)}}/{{getSection(element)}}</mat-cell>
         </ng-container>
         
         

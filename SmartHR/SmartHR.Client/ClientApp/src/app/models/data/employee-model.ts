@@ -15,7 +15,7 @@ export interface EmployeeModel {
   currentGradeId?: number;
   joinDate?: Date;
   employeeStatus?: EmployeeStatus;
-  departmentId?: number;
+  sectionId?: number;
   currentDesignationId?: number;
   employeeTypeId?: number;
 }

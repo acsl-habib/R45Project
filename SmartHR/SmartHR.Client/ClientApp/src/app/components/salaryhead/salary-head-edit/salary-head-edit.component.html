@@ -1,1 +1,43 @@
-<p>salary-head-edit works!</p>
+<div class="view-container">
+  <mat-card class="medium-card">
+    <mat-card-header>
+      <mat-card-title>Edit salary Head</mat-card-title>
+      <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/price-tag-svgrepo-com.svg" />
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <form class="medium-card-form" [formGroup]="updateForm" (submit)="update()">
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Head label</mat-label>
+          <input matInput formControlName="salaryHeadName" required>
+
+          <mat-error *ngIf="f.salaryHeadName.touched && f.salaryHeadName.errors?.required">
+            Head label is <strong>required</strong>
+          </mat-error>
+          <mat-error *ngIf="f.salaryHeadName.touched && f.salaryHeadName.errors?.maxlength">
+            Head label exceeds <strong>15 characters</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Head name</mat-label>
+          <input matInput formControlName="description" required>
+
+          <mat-error *ngIf="f.description.touched && f.description.errors?.required">
+            Head name is <strong>required</strong>
+          </mat-error>
+
+        </mat-form-field>
+        <div class="f-w">
+          <mat-checkbox formControlName="isCommon" style="margin:10px 0;">Common</mat-checkbox>
+        </div>
+        <div class="f-w right my-1">
+          &nbsp;
+          <button type="submit" mat-raised-button color="primary" [disabled]="updateForm.invalid"><mat-icon>save_alt</mat-icon> Update</button>
+        </div>
+      </form>
+    </mat-card-content>
+    <mat-card-footer class="view-card-content">
+      <div class="form-card-footer"><a mat-button [routerLink]="['/salary-heads']"><mat-icon>keyboard_backspace</mat-icon> back to list</a></div>
+    </mat-card-footer>
+  </mat-card>
+</div>
+

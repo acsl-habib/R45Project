@@ -20,6 +20,9 @@ export class DepartmentService {
   getById(id: number): Observable<DepartmentModel> {
     return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}`);
   }
+  getByEmployeeId(id: number): Observable<DepartmentModel> {
+    return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/Employee/${id}`);
+  }
   getByIdWithSections(id: number): Observable<DepartmentModel> {
     return this.http.get<DepartmentModel>(`${AppConstants.apiUrl}/api/Departments/${id}/WithSections`);
   }

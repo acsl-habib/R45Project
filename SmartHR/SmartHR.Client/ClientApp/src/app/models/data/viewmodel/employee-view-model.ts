@@ -1,5 +1,7 @@
 import { EmployeeStatus, Gender, MaritalStatus } from "../constants/enum-data";
 import { DepartmentModel } from "../department-model";
+import { DesignationModel } from "../designation-model";
+import { GradeModel } from "../grade-model";
 import { SectionModel } from "../section-model";
 
 export interface EmployeeViewModel {
@@ -20,6 +22,5 @@ export interface EmployeeViewModel {
   departmentId?: number;
   currentDesignationId?: number;
   employeeTypeId?: number;
-  section?: SectionModel;
   
 }

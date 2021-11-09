@@ -21,8 +21,7 @@ export class GradeEditComponent implements OnInit {
   //model
   grade: GradeEditModel | undefined = undefined;
   //for autocomplete
-  headLabels: string[] = [];
-  salaryHeads: SalaryHeadModel[] = [];
+  salaryHeads: string[] = [];
   //for select calculation type
   calculationTypeOptions: { label: string, value: number }[] = [];
   //forms
@@ -143,6 +142,14 @@ export class GradeEditComponent implements OnInit {
     ).forEach((v: any, i) => {
       this.calculationTypeOptions.push({ label: v, value: <any>CalculationType[v] });
     });
+    this.salaryHeadService.getLabels()
+      .subscribe(r => {
+        this.salaryHeads = r;
+        console.log(this.salaryHeads);
+      }, err => {
+        this.notifyService.fail("Failed to load salary heads", "DISMISS");
+        throwError(err.error || err);
+      });
     this.gradeService.getByIdForEdit(id)
       .subscribe(x => {
         this.grade = x;
@@ -157,11 +164,13 @@ export class GradeEditComponent implements OnInit {
         this.notifyService.fail("Failed to load grade", "DISMISS");
         throwError(err.error || err);
       });
-    this.salaryHeadService.get()
+    this.salaryHeadService.getLabels()
       .subscribe(r => {
         this.salaryHeads = r;
+        //console.log(this.salaryHeads);
       }, err => {
-
+        this.notifyService.fail("Failed to load salary heads", "DISMISS");
+        throwError(err.error || err);
       });
   }
 

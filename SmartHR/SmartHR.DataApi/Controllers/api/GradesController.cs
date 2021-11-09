@@ -56,6 +56,22 @@ namespace SmartHR.DataApi.Controllers.api
             return grade;
         }
         /*
+         * Custom to get grade of an employee
+         * 
+         * */
+        [HttpGet("Employee/{id}")]
+        public async Task<ActionResult<Grade>> GetEmployeeGrade(int id /* employee id*/)
+        {
+            var emp = await _context.Employees.Include(x=> x.Grade).FirstOrDefaultAsync(x=>x.EmployeeId == id);
+
+            if (emp == null)
+            {
+                return NotFound();
+            }
+
+            return emp.Grade;
+        }
+        /*
          * Custom to return grade editable format
          * 
          * */
@@ -97,10 +113,9 @@ namespace SmartHR.DataApi.Controllers.api
 
             return await _context
                 .Employees
-                .Include(x => x.Designation)
-                .Include(x => x.Grade)
-                .Include(x => x.Section)
-                .ThenInclude(y => y.Department)
+                //.Include(x => x.Designation)
+                //.Include(x => x.Grade)
+                //.Include(x => x.Section)
                 .Where(x => x.CurrentGradeId == id)
                 .ToListAsync();
         }

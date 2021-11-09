@@ -43,7 +43,23 @@ namespace SmartHR.DataApi.Controllers.api
 
             return department;
         }
-        
+        /*
+         * Custom to get department of an employee
+         * 
+         * */
+        [HttpGet("Employee/{id}")]
+        public async Task<ActionResult<Department>> GetEmployeeDepartment(int id)
+        {
+            var emp = await _context.Employees.Include(x=> x.Section).FirstOrDefaultAsync(x=> id== x.EmployeeId);
+
+            if (emp == null)
+            {
+                return NotFound();
+            }
+            var section = await _context.Sections.Include(x => x.Department).FirstOrDefaultAsync(x => x.SectionId == emp.SectionId);
+           
+            return section?.Department;
+        }
         /*
          * Custom to get single dept + sections
          * 

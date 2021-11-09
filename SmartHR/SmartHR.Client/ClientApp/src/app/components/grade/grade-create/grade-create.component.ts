@@ -100,7 +100,7 @@ export class GradeCreateComponent implements OnInit {
       }, err => {
         this.notifyService.fail("Failed to load salary heads", "DISMISS");
         throwError(err.error || err);
-      })
+      });
     Object.keys(CalculationType).filter(
       (type) => isNaN(<any>type) && type !== 'values'
     ).forEach((v: any, i) => {

@@ -43,7 +43,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -51,31 +51,31 @@
             },
             "microsoft.aspnetcore.authentication.jwtbearer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "microsoft.aspnetcore.mvc.newtonsoftjson": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "microsoft.entityframeworkcore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "microsoft.entityframeworkcore.design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "microsoft.entityframeworkcore.sqlserver": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "microsoft.entityframeworkcore.tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [

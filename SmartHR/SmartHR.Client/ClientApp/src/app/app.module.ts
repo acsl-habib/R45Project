@@ -50,6 +50,8 @@ import { appInitializer } from './Initializers/app-initializer';
 import { HttpErrorInterceptor } from './interceptors/common/http-error-interceptor';
 import { GradeEmployeeComponent } from './components/grade/grade-employee/grade-employee.component';
 import { SalaryStructureService } from './services/data/salary-structure.service';
+import { DesignationService } from './services/data/designation.service';
+import { SectionService } from './services/data/section.service';
 
 
 @NgModule({
@@ -105,6 +107,8 @@ import { SalaryStructureService } from './services/data/salary-structure.service
     SalaryHeadService,
     GradeService,
     SalaryStructureService,
+    DesignationService,
+    SectionService,
     { provide: HTTP_INTERCEPTORS, useClass: JwtTokenInterceptor, multi: true },
     {
       provide: HTTP_INTERCEPTORS,
