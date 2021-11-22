@@ -1,0 +1,39 @@
+<mat-card class="persional-form mat-elevation-z8">
+  <mat-card-header>
+    <mat-card-title class="card-title">
+      Personal Information of
+    </mat-card-title>
+    <mat-card-subtitle class="card-subtitle">
+      {{employee.employeeName}}
+    </mat-card-subtitle>
+    <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/personal information.svg" />
+  </mat-card-header>
+  <mat-card-content style="margin:10px 20px;">
+    <div>
+        <div class="image parts">
+          <img style="box-shadow:1px 2px 5px gray;" src="http://localhost:5000/Uploads/{{employee.picture}}" width="100"  />
+        </div>
+        <div class="parts">
+          <h4 style="background-color:lightgray;padding:5px; text-align:center;">Mailing Address</h4>
+          <div>Present Address : {{employee.presentAddress}}</div>
+          <div>Permanent Address : {{employee.permanentAddress}}</div>
+          <div>Email : <a href="mailto:{{employee.email}}">{{employee.email}}</a></div>
+          <div>Phone : {{employee.phone}}</div>
+        </div>
+        <div class="parts">
+          <h4 style="background-color:lightgray;padding:5px; text-align:center;">Personal Information</h4>
+          <div>Employee Name : {{employee.employeeName}}</div>
+          <div>Date of Birth : {{employee.dateOfBirth|date:"dd-MMM-yyyy"}}</div>
+          <div>Blood Group : {{employee.bloodGroup}}</div>
+          <div>Sex : {{employee.gender==1?'Male':'Female'}}</div>
+
+        </div>
+        
+    </div>
+    <div>
+      <button [routerLink]="['/employees']" mat-button style="margin-top:20px;"><mat-icon>keyboard_backspace</mat-icon> Back to employee list</button>
+    </div>
+  </mat-card-content>
+</mat-card>
+
+

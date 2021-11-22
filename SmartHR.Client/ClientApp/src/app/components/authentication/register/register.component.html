@@ -1,0 +1,45 @@
+<div class="login-container ">
+  <div class="form-container   mat-elevation-z8">
+    <div class="form-header">
+      <mat-toolbar color="primary" class="mat-elevation-z9"><mat-icon style="margin-right: 16px;">app_registration</mat-icon> Registration</mat-toolbar>
+    </div>
+    <form class="form" [formGroup]="registerForm" (submit)="register()">
+      <mat-form-field class="f-w" appearance="standard">
+        <mat-label>Username</mat-label>
+        <input matInput formControlName="username">
+        <mat-error *ngIf="f.username.touched && f.username.errors?.required">
+          Username is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w" appearance="standard">
+        <mat-label>E-mail</mat-label>
+        <input matInput formControlName="email" type="email">
+        <mat-error *ngIf="f.email.touched && f.email.errors?.required">
+          E-mail is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w" appearance="standard">
+        <mat-label>Password</mat-label>
+        <input matInput formControlName="password" type="password">
+        <mat-error *ngIf="f.password.touched && f.password.errors?.required">
+          Password is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="f-w" appearance="standard">
+        <mat-label>Confirm Password</mat-label>
+        <input matInput formControlName="confirmPassword" type="password">
+        <mat-error *ngIf="f.confirmPassword.touched && f.confirmPassword.errors?.required">
+          Confirm password is <strong>required</strong>
+        </mat-error>
+      </mat-form-field>
+
+      <div class="f-w" align="end">
+        <button [disabled]="registerForm.invalid" mat-raised-button type="submit" color="primary"><mat-icon>app_registration</mat-icon> Register</button>
+      </div>
+    </form>
+  </div>
+</div>
+

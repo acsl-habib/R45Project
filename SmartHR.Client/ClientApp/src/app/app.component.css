@@ -1,0 +1,82 @@
+.footer {
+  background-color: rgb(232 239 243);
+}
+
+.part-1 {
+  padding: 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.social-media.telegram{
+    color:deepskyblue;
+}
+.social-media.facebook {
+  color: rgb(57 110 238);
+}
+.social-media.wechat {
+  color: rgb(183 204 149);
+}
+.social-media.whatsapp {
+  color: mediumseagreen;
+}
+.social-media.duo {
+  color: dodgerblue;
+}
+
+/* part-2 */
+
+.part-2 {
+  width:100%;
+  min-height: 250px;
+  display: flex;
+  justify-content:space-between;
+  flex-direction:row;
+  background-color: rgb(64 64 64);
+  padding:10px 0;
+}
+.text {
+  color: lightgray;
+}
+.about {
+  width: calc(100%/4);
+  padding: 0 10px;
+  color:lightgrey;
+  
+}
+.about p {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+.company-logo{
+    width:calc(100%/4);
+    padding:0 10px;
+}
+.serve {
+  margin-left: 10px;
+  color:lightskyblue;
+  text-decoration:none;
+}
+
+@media screen and (max-width: 600px) {
+  .part-1{
+    width: calc(100% - 20px);
+    margin: 16px auto;
+  }
+
+  .part-2 {
+    width: calc(100% - 20px);
+    display: grid;
+    grid-template-columns: 100%;
+    gap: 30px;
+    padding: 10px 0;
+  }
+  .company-logo {
+    position:inherit;
+    margin:0 auto;
+  }
+  .contact,.about,.service{
+      padding-left:50px;
+  } 
+}

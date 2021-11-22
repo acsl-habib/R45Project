@@ -1,0 +1,36 @@
+<div class="view-container">
+  <mat-card class="medium-card">
+    <mat-card-header>
+      <mat-card-title>Designation</mat-card-title>
+      <mat-card-subtitle>Edit designation</mat-card-subtitle>
+      <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/job-opportunities.svg" />
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <form class="medium-card-form" [formGroup]="updateForm" (submit)="update()">
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Designation label</mat-label>
+          <input matInput formControlName="designationName" required>
+          <mat-error *ngIf="f.designationName.touched && f.designationName.errors?.required">
+            Designation label is <strong>required</strong>
+          </mat-error>
+
+        </mat-form-field>
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Designation name</mat-label>
+          <input matInput formControlName="description" required>
+          <mat-error *ngIf="f.description.touched && f.description.errors?.required">
+            Designation name is <strong>required</strong>
+          </mat-error>
+        </mat-form-field>
+        <div class="f-w right my-1">
+          <button mat-raised-button color="primary" [disabled]="updateForm.invalid"><mat-icon>save_alt</mat-icon> Update</button>
+        </div>
+      </form>
+    </mat-card-content>
+    <mat-card-footer class="view-card-content">
+      <div class="form-card-footer"><a mat-button [routerLink]="['/designations']"><mat-icon>keyboard_backspace</mat-icon> back to list</a></div>
+    </mat-card-footer>
+  </mat-card>
+</div>
+
+

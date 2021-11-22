@@ -1,0 +1,71 @@
+<app-nav></app-nav>
+<div class="footer">
+  <div class="part-1">
+    <div> 
+      <a class="social-media facebook" href="https://www.facebook.com/"><mat-icon style="margin-right:15px">facebook</mat-icon></a>
+    </div>
+    <div>
+      <a class="social-media duo" href="https://www.duo.com/"><mat-icon style="margin-right:15px">duo</mat-icon></a>
+    </div>
+    <div>
+      <a class="social-media telegram" href="https://www.telegram.com/"><mat-icon style="margin-right:15px">telegram</mat-icon></a>
+    </div>
+    <div>
+      <a class="social-media whatsapp" href="https://www.whatsapp.com/"><mat-icon style="margin-right:15px">whatsapp</mat-icon></a>
+    </div>
+    <div>
+      <a class="social-media wechat" href="https://www.wechat.com/"><mat-icon style="margin-right:15px">wechat</mat-icon></a>
+    </div>
+  </div>
+
+  <div class="part-2">
+    <div class="company-logo" style="text-align:center;">
+      <img src="../assets/logo.svg" width="50" style="margin-top:20px;padding-top:20px;" />
+      <div class="text">{{company?.companyName}}</div>
+    </div>
+
+    <div>
+      <div class="text contact">
+        <div style="margin-bottom:10px;"><u>Contact Information</u></div>
+        <div><mat-icon style="font-size:15px;margin:0 15px 0 5px;">home</mat-icon>{{company?.companyAddress}}</div>
+        <div><mat-icon style="font-size:15px;margin:0 15px 0 5px;">email</mat-icon><a href="{{company?.companyMail}}" style="color:lightskyblue;">{{company?.companyMail}}</a></div>
+        <div><mat-icon style="font-size:15px;margin:0 15px 0 5px;">phone</mat-icon>{{company?.companyPhone}}</div>
+        <div><mat-icon style="font-size:15px;margin:0 15px 0 5px;">language</mat-icon> <a href="#" style="color:lightskyblue;">{{company?.companyWebUrl}}</a></div>
+      </div>
+    </div>
+    <div class="service">
+      <div class="text"><u>Services</u></div>
+      <div>
+        <a href="#" class="serve">Intelligence solutions</a>
+      </div>
+      <div>
+        <a href="#" class="serve">IT services</a>
+      </div>
+      <div>
+        <a href="#" class="serve">Telecommunication</a>
+      </div>
+      <div>
+        <a href="#" class="serve">Security-intelligence</a>
+      </div>
+    </div>
+
+    <div class="about">
+      <a href="#" class="text">About?</a>
+      <div>
+        <p>
+          {{company?.companyName}} was established in {{company?.companyEstablishYear}}.
+          {{company?.companyName}} is a unique ISO 9001:2015 and ISO 27001 certified organisation
+          dealing in diverse fields of Intelligence Solutions, IT services. We cater our services to different sectors like telecommunication,
+          security-intelligence. Dealing in these
+          diverse fields for more than two decades now has given {{company?.companyName}} vast experience & expertise
+          which is its main forte. It has in these years built long term partnerships with different
+          national and multinational renowned companies and organisations in different fields
+          of specialisation to work as associates, enabling it to meet the challenges of time successfully.
+          This adds both extra strength and professional capability to take up ever new challenging jobs with confidence.
+        </p>
+
+      </div>
+    </div>
+  </div>
+  
+</div>

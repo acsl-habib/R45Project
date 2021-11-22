@@ -1,0 +1,228 @@
+<div class="view-container">
+  <mat-card class="view-card mat-elevation-z8">
+    <mat-card-header>
+      <mat-card-title>Create new employee</mat-card-title>
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <form class="form-2col" [formGroup]="employeeForm" (submit)="save()">
+        <mat-stepper orientation="vertical">
+          <mat-step>
+            <ng-template matStepLabel>Personal Informations</ng-template>
+            <ng-template matStepContent>
+              <div class="column_2">
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Employee name</mat-label>
+                  <input matInput formControlName="employeeName">
+
+                  <mat-error *ngIf="f.employeeName.touched && f.employeeName.errors?.required">
+                    Name is <strong>required</strong>
+                  </mat-error>
+                  <mat-error *ngIf="f.employeeName.touched && f.employeeName.errors?.maxlength">
+                    Name exceeds <strong>40 characters</strong>
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Date of birth</mat-label>
+                  <input matInput formControlName="dateOfBirth" [matDatepicker]="picker">
+                  <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                  <mat-datepicker #picker></mat-datepicker>
+                  <mat-error *ngIf="f.dateOfBirth.touched && f.dateOfBirth.errors?.required">
+                    Date of birth is <strong>required</strong>
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Present Address</mat-label>
+                  <textarea matInput formControlName="presentAddress" style="margin-bottom:-20px;"></textarea>
+                  <mat-error *ngIf="f.presentAddress.touched && f.presentAddress.errors?.required">
+                    Present address is <strong>required</strong>
+                  </mat-error>
+                  <mat-error *ngIf="f.presentAddress.touched && f.presentAddress.errors?.maxlength">
+                    Present address exceeds <strong>200 characters</strong>
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Permanent Address</mat-label>
+                  <textarea matInput formControlName="permanentAddress" style="margin-bottom:-20px;"></textarea>
+
+                  <mat-error *ngIf="f.permanentAddress.touched && f.permanentAddress.errors?.required">
+                    Permanent address is <strong>required</strong>
+                  </mat-error>
+                  <mat-error *ngIf="f.permanentAddress.touched && f.permanentAddress.errors?.maxlength">
+                    Permanent address exceeds <strong>200 characters</strong>
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Blood Group</mat-label>
+                  <input matInput formControlName="bloodGroup">
+                  <mat-error *ngIf="f.bloodGroup.touched && f.bloodGroup.errors?.required">
+                    Blood Group is <strong>required</strong>
+                  </mat-error>
+                  <mat-error *ngIf="f.bloodGroup.touched && f.bloodGroup.errors?.maxlength">
+                    Blood Group exceeds <strong>15 characters</strong>
+                  </mat-error>
+                </mat-form-field>
+                <mat-form-field class="f-w" appearance="standard">
+                  <mat-label>Marital Status</mat-label>
+                  <mat-select formControlName="maritalStatus">
+                    <mat-option value="">--Select One--</mat-option>
+                    <mat-option *ngFor="let m of maritalStatus" [value]="m.value">
+                      {{m.label}}
+                    </mat-option>
+                  </mat-select>
+                  <mat-error *ngIf="f.maritalStatus.touched && f.maritalStatus.errors?.required">
+                    Marital Status is <strong>required</strong>
+                  </mat-error>
+                </mat-form-field>
+
+                <div class="genderMargin f-w">
+                  <mat-radio-group formControlName="gender">
+                    <span class="check-margin">Gender</span>
+                    <mat-radio-button *ngFor="let g of genderOptions" [value]="g.value" class="check-margin">{{g.label}}</mat-radio-button>
+                  </mat-radio-group>
+
+                </div>
+
+                <mat-form-field appearance="standard" class="f-w">
+                  <mat-label>Picture</mat-label>
+                  <ngx-mat-file-input formControlName="picture" [accept]="'image/*'" (change)="onChange($event)"></ngx-mat-file-input>
+                  <mat-icon matSuffix>insert_photo</mat-icon>
+                  <mat-error *ngIf="f.picture.touched && f.picture.errors">Picture field required</mat-error>
+                </mat-form-field>
+
+              </div>
+              <div>
+                <button mat-button matStepperNext style="background-color: rgb(220 230 254)">Next</button>
+              </div>
+            </ng-template>
+          </mat-step>
+
+          <mat-step>
+            <ng-template matStepLabel>Contact Informations</ng-template>
+            <ng-template matStepContent>
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Phone</mat-label>
+                <input matInput formControlName="phone">
+                <mat-error *ngIf="f.phone.touched && f.phone.errors?.required">
+                  Phone is <strong>required</strong>
+                </mat-error>
+                <mat-error *ngIf="f.phone.touched && f.phone.errors?.maxlength">
+                  Phone exceeds <strong>20 characters</strong>
+                </mat-error>
+              </mat-form-field>
+
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Employee e-mail</mat-label>
+                <input type="email" matInput formControlName="email" />
+                <mat-error *ngIf="f.email.touched && f.email.errors?.required">
+                  Email is <strong>required</strong>
+                </mat-error>
+                <mat-error *ngIf="f.email.touched && f.email.errors?.email">
+                  Invalid <strong>Email</strong>
+                </mat-error>
+
+              </mat-form-field>
+              <div style="margin:10px 0;">
+                <button mat-button matStepperPrevious style="background-color:lightgrey;margin-right:5px;">Back</button>
+                <button mat-button matStepperNext style="background-color:rgb(220 230 254)">Next</button>
+              </div>
+            </ng-template>
+          </mat-step>
+
+          <mat-step>
+            <ng-template matStepLabel>Job Informations</ng-template>
+            <ng-template matStepContent>
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Current grade</mat-label>
+                <mat-select formControlName="currentGradeId">
+                  <mat-option value="">--Select One--</mat-option>
+                  <mat-option *ngFor="let g of grade" [value]="g.gradeId">
+                    {{g.gradeName}}
+                  </mat-option>
+                </mat-select>
+                <mat-error *ngIf="f.currentGradeId.touched && f.currentGradeId.errors?.required">
+                  Current grade is <strong>required</strong>
+                </mat-error>
+              </mat-form-field>
+
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Join Date</mat-label>
+                <input matInput formControlName="joiningDate" [matDatepicker]="picker2">
+                <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+                <mat-datepicker #picker2></mat-datepicker>
+                <mat-error *ngIf="f.joiningDate.touched && f.joiningDate.errors?.required">
+                  Join date is <strong>required</strong>
+                </mat-error>
+              </mat-form-field>
+
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Employee Status</mat-label>
+                <mat-select formControlName="employeeStatus">
+                  <mat-option value="">--Select One--</mat-option>
+                  <mat-option *ngFor="let m of empStatus" [value]="m.value">
+                    {{m.label}}
+                  </mat-option>
+                </mat-select>
+                <mat-error *ngIf="f.employeeStatus.touched && f.employeeStatus.errors?.required">
+                  
+                  Employee Status is <strong>required</strong>
+                </mat-error>
+
+              </mat-form-field>
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Departments</mat-label>
+                <mat-select formControlName="departmentId">
+                  <mat-option value="">--Select One--</mat-option>
+                  <mat-option *ngFor="let d of department" [value]="d.departmentId">
+                    {{d.departmentName}}
+                  </mat-option>
+                </mat-select>
+                <mat-error *ngIf="f.departmentId.touched && f.departmentId.errors?.required">
+                  Department is <strong>required</strong>
+                </mat-error>
+              </mat-form-field>
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Designations</mat-label>
+                <mat-select formControlName="currentDesignationId">
+                  <mat-option value="">--Select One--</mat-option>
+                  <mat-option *ngFor="let e of designation" [value]="e.designationId">
+                    {{e.designationName}}
+                  </mat-option>
+                </mat-select>
+                <mat-error *ngIf="f.currentDesignationId.touched && f.currentDesignationId.errors?.required">
+                  Current designation is <strong>required</strong>
+                </mat-error>
+              </mat-form-field>
+              <mat-form-field class="f-w" appearance="standard">
+                <mat-label>Section</mat-label>
+                <mat-select formControlName="sectionId">
+                  <mat-option value="">--Select One--</mat-option>
+                  <mat-option *ngFor="let e of section" [value]="e.sectionId">
+                    {{e.sectionName}}
+                  </mat-option>
+                </mat-select>
+                <mat-error *ngIf="f.sectionId.touched && f.sectionId.errors?.required">
+                  Section is <strong>required</strong>
+                </mat-error>
+              </mat-form-field>
+              <div class="f-w">&nbsp;</div>
+
+              <div>
+                <button mat-button matStepperPrevious style="background-color:lightgrey">Back</button>
+              </div>
+
+            </ng-template>
+
+          </mat-step>
+        </mat-stepper>
+        <div style="grid-column-start: span 3;flex-direction:row;justify-content:flex-end;display:flex;">
+          <button style="margin-right:50px;" type="submit" mat-raised-button color="primary" [disabled]="employeeForm.invalid">Save</button>
+        </div>
+      </form>
+     
+      
+      <div class="f-w">
+        <a mat-flat-button [routerLink]="['/employees']"><mat-icon>keyboard_backspace</mat-icon> Back to list</a>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>

@@ -1,0 +1,95 @@
+<mat-card class="card-container mat-elevation-z8 box">
+  <mat-card-header>
+
+    <mat-card-title class="card-title">
+      Employee
+    </mat-card-title>
+    <mat-card-subtitle class="card-subtitle">
+      Employee List
+    </mat-card-subtitle>
+    <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/worker-employee-svgrepo-com.svg" />
+    <span class="spacer"></span>
+    <a [routerLink]="['/employee-create']" mat-mini-fab color="primary" title="employee create"><mat-icon>add</mat-icon></a>
+  </mat-card-header>
+  <mat-card-content class="content">
+    <div class="table-container">
+      <mat-table [dataSource]="dataSource" matSort>
+        <ng-container matColumnDef="picture">
+          <mat-header-cell *matHeaderCellDef ></mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            <img class="row-image" src="http://localhost:5000/Uploads/{{element.picture}}" width="80"/>
+          </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="employeeName">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Employee Name</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.employeeName}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="phone">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Phone</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.phone}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="email">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Email</mat-header-cell>
+          <mat-cell *matCellDef="let element"><a href="mailto:{{element.email}}">{{element.email}}</a></mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="joiningDate">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Joining Date</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.joiningDate|date: "dd-MMM-yyyy"}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="employeeStatus">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Employee Status</mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            <div *ngIf="element.employeeStatus">
+              <span *ngIf="element.employeeStatus == 1">Active</span>
+              <span *ngIf="element.employeeStatus == 2">Onleave</span>
+              <span *ngIf="element.employeeStatus == 3">Suspended</span>
+              <span *ngIf="element.employeeStatus == 4">Inactive</span>
+              <span *ngIf="element.employeeStatus == 5">Terminated</span>
+              <span *ngIf="element.employeeStatus == 6">Left</span>
+              <span *ngIf="element.employeeStatus == 7">Released</span>
+            </div>
+            
+          </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="currentGradeId">
+          <mat-header-cell *matHeaderCellDef mat-sort-header class="mat-tab-header">Grade</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getGradeName(element.currentGradeId)}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="currentDesignationId">
+          <mat-header-cell *matHeaderCellDef class="mat-tab-header">Designation</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getDesignationName(element.currentDesignationId)}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="sectionId">
+          <mat-header-cell *matHeaderCellDef class="mat-tab-header">Section</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getSectionName(element.sectionId)}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="personalInfo">
+          <mat-header-cell *matHeaderCellDef class="mat-tab-header">Personal Info</mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            <button mat-icon-button color="primary" [routerLink]="['/employee-details', element.employeeId]" title="personal details"><mat-icon>info</mat-icon></button>
+          </mat-cell>
+        </ng-container>
+        
+        <ng-container matColumnDef="actions">
+          <mat-header-cell *matHeaderCellDef class="mat-tab-header">Edit/Delete</mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            <button mat-icon-button color="primary" [routerLink]="['/employee-edit', element.employeeId]" title="employee edit"><mat-icon>edit</mat-icon></button>
+            <button mat-icon-button color="warn" (click)="confirmDelete(element)" title="employee delete"><mat-icon>delete</mat-icon></button>
+          </mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="columnList"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: columnList;"></mat-row>
+      </mat-table>
+      <mat-paginator [pageSizeOptions]="[5, 10, 20, 40]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+    </div>
+  </mat-card-content>
+</mat-card>
+

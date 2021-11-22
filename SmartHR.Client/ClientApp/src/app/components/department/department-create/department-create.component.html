@@ -1,0 +1,48 @@
+<div class="view-container">
+  <mat-card class="medium-card">
+    <mat-card-header>
+      <mat-card-title>Depatment</mat-card-title>
+      <mat-card-subtitle>Create new department</mat-card-subtitle>
+      <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/department.svg" />
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <form class="medium-card-form" [formGroup]="departmentForm" (submit)="save()">
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>Department name</mat-label>
+          <input matInput formControlName="departmentName" />
+          <mat-error *ngIf="f.departmentName.errors?.required">Depatment name is <strong>required</strong></mat-error>
+        </mat-form-field>
+
+        <div class="f-w check-row">
+          <mat-checkbox formControlName="noSection"
+                        (change)="noSectionChanged($event)" style="margin-right:15px;">
+            No section
+          </mat-checkbox>
+          <span class="spacer"></span>
+          <button type="button" mat-stroked-button color="primary" (click)="addSection()"><mat-icon>add</mat-icon></button>
+        </div>
+
+        <div formArrayName="sections">
+          <mat-form-field class="f-w" appearance="standard" *ngFor="let c of sections.controls; index as i">
+            <mat-label>Section name</mat-label>
+            <input matInput [formControlName]="i" />
+            <button *ngIf="!noSection" matSuffix mat-icon-button aria-label="Clear" (click)="remove(i)">
+              <mat-icon>close</mat-icon>
+            </button>
+            <mat-error *ngIf="c.touched && c.invalid">Section name is <strong>required</strong></mat-error>
+          </mat-form-field>
+        </div>
+
+        <div class="f-w right my-1">
+          <button type="reset" mat-raised-button color="accent"><mat-icon>restart_alt</mat-icon> Reset</button>
+          &nbsp;
+          <button type="submit" mat-raised-button color="primary" [disabled]="departmentForm.invalid"><mat-icon>save_alt</mat-icon> Save</button>
+        </div>
+
+      </form>
+    </mat-card-content>
+    <mat-card-footer class="view-card-content">
+      <div class="form-card-footer"><a mat-button [routerLink]="['/departments']"><mat-icon>keyboard_backspace</mat-icon> back to list</a></div>
+    </mat-card-footer>
+  </mat-card>
+</div>

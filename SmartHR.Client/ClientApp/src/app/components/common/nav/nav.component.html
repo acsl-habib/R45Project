@@ -1,0 +1,63 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav #drawer class="sidenav" fixedInViewport
+               [opened]="false">
+    <div class="user-view">
+      <mat-toolbar>
+        <mat-toolbar-row style="display:flex; justify-content:flex-start; align-items:center">
+          <span class="nav-logo">
+            <img src="../../../../assets/marketing-strategy.svg" style="width:70px" />
+          </span>
+          <span>{{appName}}</span>
+        </mat-toolbar-row>
+        <mat-toolbar-row>
+          <span style="color:white"><mat-icon style="margin-right:16px">handyman</mat-icon>Tools & Menu</span>
+
+        </mat-toolbar-row>
+      </mat-toolbar>
+    </div>
+
+    <mat-divider></mat-divider>
+    <ng-material-multilevel-menu [configuration]='config'
+                                 [items]='appitems'
+                                 >
+    </ng-material-multilevel-menu>
+    <mat-nav-list class="bottom-fixed">
+      <mat-divider></mat-divider>
+      <a mat-list-item [routerLink]="['/settings']" style="width:100%"><mat-icon style="margin-right:16px">settings</mat-icon>Settings</a>
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+        >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+      <span class="nav-logo">
+        <img src="../../../../assets/marketing-strategy.svg" style="width:50px" />
+      </span>
+      <span>{{appName}}</span>
+
+      <span class="spacer"></span>
+      <span style="display: flex;align-items:flex-end;">
+        <mat-icon style="margin-right: 8px;">person</mat-icon><span class="mat-body"> {{isLoggedIn ? userName: 'Guest'}}</span>
+      </span>
+      <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+        <mat-icon>more_vert</mat-icon>
+      </button>
+
+      <mat-menu #menu="matMenu" xPosition="before">
+        <a mat-menu-item [routerLink]="['/home']" style="width: 150px;"><mat-icon style="margin-right: 12px;">home</mat-icon> Home</a>
+        <a mat-menu-item [routerLink]="['/login']" style="width: 150px;" *ngIf="!isLoggedIn"><mat-icon style="margin-right: 12px;">login</mat-icon> Login</a>
+        <a mat-menu-item [routerLink]="['/register']" style="width: 150px;" *ngIf="!isLoggedIn"><mat-icon style="margin-right: 12px;">app_registration</mat-icon> Register</a>
+        <a (click)="logout()" mat-menu-item href="#" style="width: 150px;" *ngIf="isLoggedIn"><mat-icon style="margin-right: 12px;">logout</mat-icon> Logout</a>
+      </mat-menu>
+    </mat-toolbar>
+    <div class="main-body">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

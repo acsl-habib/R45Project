@@ -1,0 +1,95 @@
+<div class="view-container">
+  <mat-card class="medium-card">
+    <mat-card-header>
+      <mat-card-title>Grade</mat-card-title>
+      <mat-card-subtitle>Create new grade</mat-card-subtitle>
+      <img mat-card-avatar class="avatar mat-elevation-z9" src="../../../../assets/price-tag-svgrepo-com.svg" />
+
+
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <mat-tab-group mat-align-tabs="start">
+        <mat-tab label="Grade info">
+          <form class="medium-card-form" [formGroup]="gradeForm" (submit)="updateGrade()">
+            <mat-form-field class="f-w" appearance="standard">
+              <mat-label>Grade name</mat-label>
+              <input matInput formControlName="gradeName">
+
+              <mat-error *ngIf="f.gradeName.touched && f.gradeName.errors?.required">
+                Grade name is <strong>required</strong>
+              </mat-error>
+
+            </mat-form-field>
+            <mat-form-field class="f-w" appearance="standard">
+              <mat-label>Basic</mat-label>
+              <input matInput formControlName="basic">
+
+              <mat-error *ngIf="f.basic.touched && f.basic.errors?.required">
+                Basic is <strong>required</strong>
+              </mat-error>
+
+            </mat-form-field>
+            <div class="f-w right my-1">
+              <button type="reset" mat-raised-button color="accent"><mat-icon>restart_alt</mat-icon> Reset</button>
+              &nbsp;
+              <button type="submit" mat-raised-button color="primary" [disabled]="gradeForm.invalid" ><mat-icon>save_alt</mat-icon> Update</button>
+
+             
+            </div>
+          </form>
+        </mat-tab>
+        <mat-tab label="Pay structure" >
+          <div class="f-w right my-1">
+            <button type="button" mat-raised-button (click)="addHead()"><mat-icon>add</mat-icon></button>
+          </div>
+          <form [formGroup]="salaryStructureForm" >
+            <ng-container formArrayName="salaryHeads">
+              <ng-container>
+                <div *ngFor="let p of heads.controls; let i = index">
+                  <div [formGroupName]="i" class="form-3col-2">
+                    <mat-form-field class="f-w" appearance="standard">
+                      <mat-label>Head</mat-label>
+                      <input matInput formControlName="label" [matAutocomplete]="auto">
+                      <mat-autocomplete autoActiveFirstOption #auto="matAutocomplete">
+                        <mat-option *ngFor="let option of salaryHeads" [value]="option">
+                          {{option}}
+                        </mat-option>
+                      </mat-autocomplete>
+                      <mat-error *ngIf="heads.controls[i].get('label')?.errors?.required">Head is <strong>requird</strong></mat-error>
+                    </mat-form-field>
+                    <mat-form-field class="f-w" appearance="standard">
+                      <mat-label>Head Value</mat-label>
+                      <input matInput formControlName="headValue">
+                      <mat-error *ngIf="heads.controls[i].get('headValue')?.errors?.required">Head value is <strong>requird</strong></mat-error>
+                    </mat-form-field>
+                    <mat-form-field class="f-w" appearance="standard">
+                      <mat-label>Type</mat-label>
+                      <mat-select matInput formControlName="valueCalculationType">
+                        <!--<mat-option value=""></mat-option>-->
+                        <mat-option *ngFor="let op of calculationTypeOptions" [value]="op.value">
+                          {{op.label}}
+                        </mat-option>
+                      </mat-select>
+                      <mat-error *ngIf="heads.controls[i].get('valueCalculationType')?.errors?.required">Type is <strong>requird</strong></mat-error>
+                    </mat-form-field>
+                    <div>
+                      <button type="button" mat-icon-button [disabled]="heads.controls[i].get('label')?.invalid || heads.controls[i].get('headValue')?.invalid || heads.controls[i].get('valueCalculationType')?.invalid" (click)="deleteSalaryStucture(i)"><mat-icon>clear</mat-icon></button>
+                      <button type="button" mat-icon-button  [disabled]="heads.controls[i].get('label')?.invalid || heads.controls[i].get('headValue')?.invalid || heads.controls[i].get('valueCalculationType')?.invalid" (click)="updateSlaryStructure(i)"><mat-icon>done</mat-icon></button>
+                    </div>
+                    
+                  </div>
+                </div>
+              </ng-container>
+            </ng-container>
+            
+          </form>
+        </mat-tab>
+
+      </mat-tab-group>
+    </mat-card-content>
+    <mat-card-footer class="view-card-content">
+      <div class="form-card-footer"><a mat-button [routerLink]="['/grades']"><mat-icon>keyboard_backspace</mat-icon> back to list</a></div>
+    </mat-card-footer>
+  </mat-card>
+</div>
+

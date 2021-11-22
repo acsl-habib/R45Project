@@ -1,0 +1,25 @@
+.row-image {
+  width: 100px;
+  border-radius: 50%;
+  margin: 10px 0;
+  box-shadow: 5px 15px 20px gray;
+}
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+table{
+    width:100%;
+    text-align:center;
+    background-color:rgb(229 227 227)
+}
+.persional-form{
+    margin: 10px 30%;
+}
+.parts{
+    margin:10px;
+}
+.image {
+  display:flex;
+  justify-content:flex-end;
+}

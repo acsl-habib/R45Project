@@ -1,0 +1,52 @@
+<div class="view-container">
+  <mat-card class="view-card mat-elevation-z8">
+    <mat-card-header>
+      <mat-card-title>Designation</mat-card-title>
+      <mat-card-subtitle>Employee designation list</mat-card-subtitle>
+      <img src="../../../../assets/price-tag-svgrepo-com.svg" mat-card-avatar class="mat-elevation-z9">
+
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <mat-table [dataSource]="dataSource" matSort>
+        <ng-container matColumnDef="picture">
+          <mat-header-cell *matHeaderCellDef></mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            <img class="avatar row-image" src="http://localhost:5000/Uploads/{{element.picture}}" width="80" />
+          </mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="employeeName">
+          <mat-header-cell *matHeaderCellDef>Employee name</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element?.employeeName}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="phone">
+          <mat-header-cell *matHeaderCellDef>Phone</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element?.phone}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="email">
+          <mat-header-cell *matHeaderCellDef>E-mail</mat-header-cell>
+          <mat-cell *matCellDef="let element"><a href="mailto:{{element?.email}}">{{element?.email}}</a></mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="joiningDate">
+          <mat-header-cell *matHeaderCellDef mat-sort-header>Joining Date</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element?.joiningDate|date:'dd-MMM-yyyy'}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="department">
+          <mat-header-cell *matHeaderCellDef>Department/Section</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getDepartment(element)}}/{{getSection(element)}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="grade">
+          <mat-header-cell *matHeaderCellDef>Grade</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{getGrade(element)}}</mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="columnList"></mat-header-row>
+        <mat-row *matRowDef="let row;columns:columnList"></mat-row>
+      </mat-table>
+      <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+    </mat-card-content>
+    <div>
+      <button mat-button type="button" [routerLink]="['/designations']"><mat-icon>keyboard_backspace</mat-icon> Back to designation list</button>
+    </div>
+  </mat-card>
+  
+</div>
+

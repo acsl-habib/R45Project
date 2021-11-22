@@ -1,0 +1,91 @@
+<div class="view-container">
+  <mat-card class="view-card mat-elevation-z8">
+    <mat-card-header>
+      <mat-card-title>Salary</mat-card-title>
+      <mat-card-subtitle>Employee salary list</mat-card-subtitle>
+      <img src="../../../../assets/pay-svgrepo-com.svg" mat-card-avatar class="mat-elevation-z9">
+    </mat-card-header>
+    <mat-card-content class="view-card-content">
+      <div class="form-4col-2">
+        <button mat-button (click)="pre()"><mat-icon>arrow_left</mat-icon></button>
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>From</mat-label>
+          <input matInput  [value]="firstDate"/>
+
+        </mat-form-field>
+        <mat-form-field class="f-w" appearance="standard">
+          <mat-label>To</mat-label>
+          <input matInput [value]="lastDate"  />
+
+        </mat-form-field>
+        <button mat-button (click)="next()"><mat-icon>arrow_right</mat-icon></button>
+      </div>
+      <mat-table [dataSource]="dataSource">
+        <ng-container matColumnDef="employeeName">
+          <mat-header-cell *matHeaderCellDef>Employee Name</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.employeeName}}</mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="grade">
+          <mat-header-cell *matHeaderCellDef>Grade</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.grade}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="designation">
+          <mat-header-cell *matHeaderCellDef>Designation</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.designation}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="year">
+          <mat-header-cell *matHeaderCellDef>Year</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.year}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="month">
+          <mat-header-cell *matHeaderCellDef>Month</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.month}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="basic">
+          <mat-header-cell *matHeaderCellDef>Basic</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.basic}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="hr">
+          <mat-header-cell *matHeaderCellDef>HR</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.hr}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="ma">
+          <mat-header-cell *matHeaderCellDef>MA</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.ma}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="ta">
+          <mat-header-cell *matHeaderCellDef>TA</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.ta}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="da">
+          <mat-header-cell *matHeaderCellDef>DA</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.da}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="grossSalary">
+          <mat-header-cell *matHeaderCellDef>Gross Salary</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.grossSalary}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="tax">
+          <mat-header-cell *matHeaderCellDef>Tax</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.tax}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="deduction">
+          <mat-header-cell *matHeaderCellDef>Deduction</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.deduction}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="netSalary">
+          <mat-header-cell *matHeaderCellDef>Net Salary</mat-header-cell>
+          <mat-cell *matCellDef="let element">{{element.netSalary}}</mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="columnList"></mat-header-row>
+        <mat-row *matRowDef="let row;columns:columnList"></mat-row>
+      </mat-table>
+      <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+      <div class="f-w right my-1">
+        <span *ngIf="isSaved">Pay date: {{payDate| date:'yyyy-MM-dd'}}</span> <button mat-raised-button color="primary" *ngIf="!isSaved" (click)="save()">Save</button>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
+

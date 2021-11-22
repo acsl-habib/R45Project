@@ -1,0 +1,1386 @@
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\R45\Final Project\SmartHR.DataApi\SmartHR.DataApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartHR.DataApi.styles.css
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\R45\Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Final Project (Sir)\R45Project-main_9-11\R45Project-main\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\REYAD-1260660\Course Final Project\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+E:\main\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\main\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+D:\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\main\20-0121\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csprojAssemblyReference.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\appsettings.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\global.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\package-lock.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.exe
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.deps.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.runtimeconfig.dev.json
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfoInputs.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.AssemblyInfo.cs
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CoreCompileInputs.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorAssemblyInfo.cs
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.input.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.TagHelpers.output.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorCoreGenerate.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.RazorTargetAssemblyInfo.cs
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.Views.pdb
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.CopyComplete
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.Manifest.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\staticwebassets\SmartHR.DataApi.StaticWebAssets.xml
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.dll
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.pdb
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.genruntimeconfig.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.csproj.AssemblyReference.cache
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\SmartHR.DataApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Reyad\SmartHR\SmartHR\SmartHR.DataApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartHR.DataApi.styles.css

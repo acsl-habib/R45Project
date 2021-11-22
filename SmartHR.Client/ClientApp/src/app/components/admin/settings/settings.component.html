@@ -1,0 +1,218 @@
+<div class="settings-container">
+  <mat-card color="primary" class="top-head mat-elevation-z7"><h1>Configutaion & Settings</h1></mat-card>
+  <mat-accordion class="settings-accordion mat-elevation-z8">
+    <mat-expansion-panel *ngIf="!dbState">
+      <mat-expansion-panel-header>
+        <mat-panel-title> Database initialization </mat-panel-title>
+      </mat-expansion-panel-header>
+
+      <div style="display:flex" class="panel-content">
+        <span> Database is not initialized.</span>
+        <span class="spacer"></span>
+        <button mat-raised-button color="primary" (click)="init()">
+          Init Db
+        </button>
+      </div>
+    </mat-expansion-panel>
+    <mat-expansion-panel *ngIf="dbState" class="panel">
+      <mat-expansion-panel-header class="panel-header">
+        <mat-panel-title>
+          <h3 class="x-h3">Company profile</h3>
+        </mat-panel-title>
+
+      </mat-expansion-panel-header>
+
+      <div class="settings-form-container">
+        <form class="company-form" #profileForm="ngForm" (ngSubmit)="updateCompany(profileForm)">
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Company name</mat-label>
+            <input matInput name="name" [(ngModel)]="company.companyName" #name="ngModel" required />
+            <mat-error *ngIf="!name.pristine && name.errors">
+              <div *ngIf="!name.pristine && name.errors?.required">Company name requred</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Company slogan</mat-label>
+            <input matInput placeholder="slogan.." name="slogan" [(ngModel)]="company.companySlogan" #slogan="ngModel" required />
+            <mat-error *ngIf="!slogan.pristine && slogan.errors">
+              <div *ngIf="!slogan.pristine && slogan.errors?.required">Company slogan requred</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Eshtablish year</mat-label>
+            <mat-select name="eshtablish" [(ngModel)]="company.companyEstablishYear" #eshtablish="ngModel" required>
+              <mat-option value=""> </mat-option>
+              <mat-option *ngFor="let y of years" [value]="y">{{y}}</mat-option>
+            </mat-select>
+            <mat-error *ngIf="!eshtablish.pristine && eshtablish.errors">
+              <div *ngIf="!eshtablish.pristine && eshtablish.errors?.required">Company eshtablish year requred</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w"
+                          appearance="standard"
+                          style="grid-column-start: span 2"
+                          *ngIf="company">
+            <mat-label>Company Address</mat-label>
+            <textarea matInput required name="address" [(ngModel)]="company.companyAddress" #address="ngModel"></textarea>
+            <mat-error *ngIf="!address.pristine && address.errors">
+              <div *ngIf="!address.pristine && address.errors?.required">Company eshtablish year requred</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Contact phone</mat-label>
+            <input matInput name="contact" [(ngModel)]="company.companyPhone" #contact="ngModel" />
+            <mat-error *ngIf="!contact.pristine && contact.errors">
+              <div *ngIf="!contact.pristine && contact.errors?.required">Company contact requred</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Company e-mail</mat-label>
+            <input type="email" matInput name="email" [(ngModel)]="company.companyMail" #email="ngModel" required />
+            <mat-error *ngIf="!email.pristine && email.errors">
+              <div *ngIf="!email.pristine && email.errors?.required">Company email requred</div>
+              <div *ngIf="!email.pristine && email.errors?.email">Invalid e-mail</div>
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard" *ngIf="company">
+            <mat-label>Web url</mat-label>
+            <input type="url" matInput name="url" [(ngModel)]="company.companyWebUrl" #url="ngModel" [pattern]="'(https?://)?([\\da-z.-]+)\\.([a-z.]{2,6})[/\\w .-]*/?'" />
+            <mat-error *ngIf="!url.pristine && url.errors">
+              <div *ngIf="!url.pristine && url.errors">Company web url invalid</div>
+            </mat-error>
+          </mat-form-field>
+          <div class="f-w">&nbsp;</div>
+          <div class="f-w" style="grid-column-start: span 3; align-content:flex-end">
+            <button type="submit" mat-raised-button color="primary" [disabled]="profileForm.invalid">Update</button>
+          </div>
+        </form>
+      </div>
+    </mat-expansion-panel>
+    <mat-expansion-panel *ngIf="dbState" class="panel">
+      <mat-expansion-panel-header class="panel-header">
+        <mat-panel-title><h3 class="x-h3">Workdays</h3> </mat-panel-title>
+      </mat-expansion-panel-header>
+
+      <div class="settings-form-container panel-content">
+        <form class="workdays-form" #workdayForm="ngForm" (ngSubmit)="saveBusinessDays(workdayForm)">
+          <div class="checkgroup-container">
+            <span class="check-conatiner"><mat-checkbox class="check-margin" *ngFor="let form_elem of formTemplate" [(ngModel)]="form_elem.checked" name="{{form_elem.label}}">{{form_elem.label}}</mat-checkbox></span>
+            <span class="spacer"></span>
+            <button mat-raised-button color="primary">Save</button>
+          </div>
+        </form>
+      </div>
+    </mat-expansion-panel>
+    <mat-expansion-panel *ngIf="dbState" class="panel">
+      <mat-expansion-panel-header class="panel-header">
+        <mat-panel-title><h3 class="x-h3">Work hour</h3> </mat-panel-title>
+      </mat-expansion-panel-header>
+
+
+      <div class="settings-form-container panel-content">
+        <form class="hour-form" #regularWorkhourForm="ngForm" (ngSubmit)="updateRegularWorkHour(regularWorkhourForm)">
+
+          <h3 style="grid-column-start:span 2">Regular work hour</h3>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Start Time</mat-label>
+            <input matTimepicker #t1="matTimepicker" matInput [required]="true"
+                   [strict]="false"  mode="12h"
+                   placeholder="Please select time..." name="time1" #time1="ngModel" [(ngModel)]="workHourRegular.startTime">
+            <mat-icon matSuffix (click)="t1.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time1.pristine && time1.errors">
+              <mat-error *ngIf="time1.touched && time1.errors?.required">Start time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Leave Time</mat-label>
+            <input matTimepicker #t2="matTimepicker" matInput [required]="true"
+                   [strict]="false"  mode="12h"
+                   placeholder="Please select time..." name="time2" #time2="ngModel" [(ngModel)]="workHourRegular.leaveTime">
+            <mat-icon matSuffix (click)="t2.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time2.pristine && time2.errors">
+              <mat-error *ngIf="time2.touched && time2.errors?.required">Leave time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Break Time</mat-label>
+            <input matTimepicker #t3="matTimepicker" matInput [required]="true"
+                   [strict]="false" mode="12h"
+                   placeholder="Please select time..." name="time3" #time3="ngModel" [(ngModel)]="workHourRegular.breakTime">
+            <mat-icon matSuffix (click)="t3.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time3.pristine && time3.errors">
+              <mat-error *ngIf="time3.touched && time3.errors?.required">Break time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Break duration (minute)</mat-label>
+            <input matInput name="duration" [(ngModel)]="workHourRegular.breakDuration" #duration="ngModel" required />
+            <mat-error *ngIf="!duration.pristine && duration.errors">
+              <div *ngIf="!duration.pristine && duration.errors?.required">Break duration requred</div>
+
+            </mat-error>
+          </mat-form-field>
+          <div class="f-w" style="grid-column-start:span 2;text-align:right">
+            <button type="reset" mat-raised-button color="accent"><mat-icon style="margin-right:12px">restart_alt</mat-icon> Reset</button>
+            &nbsp;
+            <button type="submit" mat-raised-button color="primary"><mat-icon style="margin-right:12px">save_alt</mat-icon> Save</button>
+          </div>
+        </form>
+        <form class="hour-form" #ramadanWorkhourForm="ngForm" (ngSubmit)="updateRamadanWorkHour(ramadanWorkhourForm)">
+
+          <h3 style="grid-column-start:span 2">Ramadan work hour</h3>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Start Time</mat-label>
+            <input matTimepicker #t4="matTimepicker" matInput [required]="true"
+                   [strict]="false" id="timepicker-example" mode="12h"
+                   placeholder="Please select time..." name="time4" #time4="ngModel" [(ngModel)]="workHourRamadan.startTime">
+            <mat-icon matSuffix (click)="t4.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time4.pristine && time4.errors">
+              <mat-error *ngIf="time4.touched && time4.errors?.required">Start time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Leave Time</mat-label>
+            <input matTimepicker #t5="matTimepicker" matInput [required]="true"
+                   [strict]="false" mode="12h"
+                   placeholder="Please select time..." name="time5" #time5="ngModel" [(ngModel)]="workHourRamadan.leaveTime">
+            <mat-icon matSuffix (click)="t5.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time5.pristine && time5.errors">
+              <mat-error *ngIf="time5.touched && time5.errors?.required">Leave time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Break Time</mat-label>
+            <input matTimepicker #t6="matTimepicker" matInput [required]="true"
+                   [strict]="false" mode="12h"
+                   placeholder="Please select time..." name="time6" #time6="ngModel" [(ngModel)]="workHourRamadan.breakTime">
+            <mat-icon matSuffix (click)="t6.showDialog()">access_time</mat-icon>
+            <mat-error *ngIf="!time6.pristine && time6.errors">
+              <mat-error *ngIf="time6.touched && time6.errors?.required">Break time required</mat-error>
+
+            </mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w" appearance="standard">
+            <mat-label>Break duration (minute)</mat-label>
+            <input matInput name="duration" [(ngModel)]="workHourRamadan.breakDuration" #duration="ngModel" required />
+            <mat-error *ngIf="!duration.pristine && duration.errors">
+              <div *ngIf="!duration.pristine && duration.errors?.required">Break duration requred</div>
+
+            </mat-error>
+          </mat-form-field>
+          <div class="f-w" style="grid-column-start:span 2;text-align:right">
+            <button type="reset" mat-raised-button color="accent"><mat-icon style="margin-right:12px">restart_alt</mat-icon> Reset</button>
+            &nbsp;
+            <button type="submit" mat-raised-button color="primary"><mat-icon style="margin-right:12px">save_alt</mat-icon> Save</button>
+          </div>
+        </form>
+      </div>
+
+
+    </mat-expansion-panel>
+  </mat-accordion>
+
+</div>
